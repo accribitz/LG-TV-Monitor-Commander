@@ -128,5 +128,5 @@ If you tested another devices, please report it.
 
 ## License
 Copyright (c) 2020 accribitz  
-This software is released under the GPLv3 License, see LICENSE.
+This software is released under the GPLv3 License, see LICENSE.  
 This website content is released under the CC BY 4.0 License, see LICENSE-CC.
