@@ -23,7 +23,7 @@ Control LG TV/Monitor using Arduino's serial port or SoftSerial.
 ~~~
 GND connections are omitted.
 
-                 5V         12V      LG TV/Monitor Phone Jack
+                 5V         12V      LG TV/Monitor Phone Plug
 +---------+   +-------------------+     |---------------\
 |LG_TX_PIN|-->|TTL-IN   RS-232-OUT|------------->   |    \
 | Arduino |   |  Level Converter  |     | GND | TXD | RXD >
