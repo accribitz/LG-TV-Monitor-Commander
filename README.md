@@ -25,9 +25,9 @@ GND connections are omitted.
 
                  5V         12V      LG TV/Monitor Phone Plug
 +---------+   +-------------------+     |---------------\
-|LG_TX_PIN|-->|TTL-IN   RS-232-OUT|------------->   |    \
-| Arduino |   |  Level Converter  |     | GND | TXD | RXD >
-|LG_RX_PIN|<--|TTL-OUT   RS-232-IN|<-------------------  /
+|LG_TX_PIN|-->|TTL-IN   RS-232-OUT|------------------->  \
+| Arduino |   |  Level Converter  |     | GND | RXD | TXD >
+|LG_RX_PIN|<--|TTL-OUT   RS-232-IN|<-------------   |    /
 +---------+   +-------------------+     |---------------/
 ~~~
 
